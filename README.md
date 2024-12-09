@@ -28,8 +28,10 @@ A weather application built using **Flutter**, fetching real-time weather data f
 
 ## Screenshots 📸
 
-_Include screenshots of the app interface here._  
-(e.g., current weather view, hourly forecast, additional information)
+![Weather-forecast-flutter-app](ou1.png)
+
+
+![Weather-forecast-flutter-app](ou2t.png)
 
 ---
 
