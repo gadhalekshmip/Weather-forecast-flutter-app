@@ -1,16 +1,54 @@
-# weather_app
+# Weather App 🌤️
 
-A new Flutter project.
+A weather application built using **Flutter**, fetching real-time weather data from the OpenWeather API. The app is designed to display current weather conditions, hourly forecasts, and additional weather-related information in a clean and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- **Current Weather**:  
+  Displays the current temperature, weather conditions (e.g., sunny, cloudy), and an icon representing the sky condition.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Hourly Forecast**:  
+  View a 6-hour weather forecast, including temperature and sky conditions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Additional Information**:  
+  Get detailed data on:
+  - Humidity
+  - Wind Speed
+  - Atmospheric Pressure
+
+- **Refresh Button**:  
+  Quickly refresh weather data to get the latest updates.
+
+- **Sleek UI**:  
+  The app features a Material 3 design with a dark theme for an aesthetic and modern user experience.
+
+---
+
+## Screenshots 📸
+
+_Include screenshots of the app interface here._  
+(e.g., current weather view, hourly forecast, additional information)
+
+---
+
+## API Used 🌐
+
+The app integrates with the **OpenWeather API** to fetch real-time weather data.  
+Check out their documentation [here](https://openweathermap.org/api).
+
+---
+
+## Dependencies 🧩
+
+- **Flutter**: Cross-platform app development framework.
+- **HTTP**: Handles API requests.
+- **intl**: Used for date and time formatting.
+
+---
+
+## Credits 🙌
+
+This app was developed with the help of **Rivaan Ranawat's YouTube tutorials**.  
+Check out his channel [here](https://www.youtube.com/@RivaanRanawat).
